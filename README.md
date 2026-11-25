@@ -7,7 +7,7 @@
 <br><div align="center">
 
 ${\textsf{\color{#D4AF37}  ⋆˚𝜗𝜚˚⋆⋆˖ ݁𖥔 ݁ ˖ 𐙚 ˖ ݁𖥔 ݁˖ }}$
->${\textsf{\color{#009C3B}bra}}$ ${\textsf{\color{#FFDF00}zi}}$ ${\textsf{\color{#002776}li}}$ ${\textsf{\color{#FFFFFF}an}}$,artist,(stupid/j)
+>${\textsf{\color{#009C3B}bra}}$ ${\textsf{\color{#FFDF00}zi}}$ ${\textsf{\color{#002776}li}}$ ${\textsf{\color{#FFFFFF}an}}$,${\textsf{\color{#A6A6A6}artist}}$,(stupid/j)
  </div>
 
 <br>
